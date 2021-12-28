@@ -13,11 +13,11 @@
     width: 90%;
 }
 .left-section{
-    grid-column: 1  / 2;
+    grid-column: span 1;
     background-color: lightseagreen;
 }
 .right-section{
-    grid-column: 2 / 3;
+    grid-column: span 1 / span 2;
     width: 90%;
     background-color: whitesmoke;
 }
