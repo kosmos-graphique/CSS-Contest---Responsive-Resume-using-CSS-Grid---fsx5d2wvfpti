@@ -11,6 +11,7 @@
     grid-template-columns: 300px 700px;
     min-height: 1000px;
     width: 90%;
+    margin: auto;
 }
 .left-section{
     grid-column: span 1;
